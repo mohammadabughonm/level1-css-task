@@ -1,0 +1,59 @@
+.box:nth-of-type(odd)  {border:solid 1px; border-color: black;
+    background-color: red; padding: 20px; color: white;  box-shadow: 7px 10px 14px 4px rgba(0,0,0,0.17);
+    -webkit-box-shadow: 7px 10px 14px 4px rgba(0,0,0,0.17);
+    -moz-box-shadow: 7px 10px 14px 4px rgba(0,0,0,0.17);}
+.box:nth-of-type(even) {display:none;}
+
+.sha{
+   
+    background-color: rgb(250, 246, 241);padding: 20px;
+
+    background-color: rgb(255, 255, 255); padding: 40px; color: white;  box-shadow: 7px 10px 14px 4px rgba(0,0,0,0.17);
+    -webkit-box-shadow: 7px 10px 14px 4px rgba(0,0,0,0.17);
+    -moz-box-shadow: 7px 10px 14px 4px rgba(0,0,0,0.17);
+}
+
+.sha1{
+    background-color: aliceblue;
+    box-shadow: 1px;
+    padding: 40px;
+    color: white;
+    border: none;
+}
+.sha2{
+    background-color: aliceblue;
+    box-shadow: 5px;
+    padding: 40px;
+    color: white;
+    border: none;
+}
+.sha3{
+    background-color: aliceblue;
+    box-shadow: 10px;
+    padding: 40px;
+    color: white;
+    border: none;
+}
+.sha4{
+    background-color: aliceblue; 
+    box-shadow: 15px 15px 15px 15px;
+    padding: 40px;
+    color: white;
+    border: none;
+}
+.sha5{
+    background-color: aliceblue;
+    box-shadow: 7px 10px 14px 1px rgba(0,0,0,0.17);
+     padding: 40px;
+    color: white;
+    border: none;
+}
+.sha6{
+    background-color: aliceblue;
+    box-shadow: 7px 10px 14px 4px rgba(0,0,0,0.17);
+    -webkit-box-shadow: 7px 10px 14px 4px rgba(0,0,0,0.17);
+    -moz-box-shadow: 7px 10px 14px 4px rgba(0,0,0,0.17);
+    padding: 40px;
+    color: white;
+    border: none;
+}
